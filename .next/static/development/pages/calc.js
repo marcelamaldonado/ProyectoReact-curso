@@ -12218,7 +12218,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
       lineNumber: 9
     },
     __self: this
-  }, "Pagina de la Calculadoras"), __jsx(_componentes_Calculadora__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  }, "Calculadoras"), __jsx(_componentes_Calculadora__WEBPACK_IMPORTED_MODULE_4__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -12227,12 +12227,12 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
   }), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "682366279",
     __self: this
-  }, "body{background:#ffca20;margin-bottom:100px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFxwcm95ZWN0b1JlYWN0XFxwYWdlc1xcY2FsYy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhUSxBQUcrQixtQkFDQyxvQkFDdkIiLCJmaWxlIjoiRDpcXHByb3llY3RvUmVhY3RcXHBhZ2VzXFxjYWxjLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRlcy9jb211bmVzL0hlYWRlcidcclxuaW1wb3J0IEJhcnJhVGl0dWxvIGZyb20gJy4uL2NvbXBvbmVudGVzL2NvbXVuZXMvQmFycmFUaXR1bG8nXHJcbmltcG9ydCBDYWxjdWxhZG9yYSBmcm9tICcuLi9jb21wb25lbnRlcy9DYWxjdWxhZG9yYSdcclxuXHJcbmV4cG9ydCBkZWZhdWx0ICgpPT4oXHJcbiAgICA8ZGl2PlxyXG4gICAgPEhlYWRlci8+XHJcbiAgICA8QmFycmFUaXR1bG8vPlxyXG4gICAgICAgIDxoMT5QYWdpbmEgZGUgbGEgQ2FsY3VsYWRvcmFzPC9oMT5cclxuICAgICAgICA8Q2FsY3VsYWRvcmEvPlxyXG5cclxuICAgIDxzdHlsZSBqc3ggZ2xvYmFsPlxyXG4gICAge1xyXG4gICAgICAgIGBcclxuICAgICAgICBib2R5e1xyXG4gICAgICAgICAgICBiYWNrZ3JvdW5kOiNmZmNhMjA7XHJcbiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206MTAwcHg7XHJcbiAgICAgICAgfVxyXG4gICAgICAgIGBcclxuICAgIH1cclxuICAgIDwvc3R5bGU+ICBcclxuICAgIDwvZGl2PlxyXG4pIl19 */\n/*@ sourceURL=D:\\proyectoReact\\pages\\calc.js */"));
+  }, "body{background:#ffca20;margin-bottom:100px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFxwcm95ZWN0b1JlYWN0XFxwYWdlc1xcY2FsYy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhUSxBQUcrQixtQkFDQyxvQkFDdkIiLCJmaWxlIjoiRDpcXHByb3llY3RvUmVhY3RcXHBhZ2VzXFxjYWxjLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRlcy9jb211bmVzL0hlYWRlcidcclxuaW1wb3J0IEJhcnJhVGl0dWxvIGZyb20gJy4uL2NvbXBvbmVudGVzL2NvbXVuZXMvQmFycmFUaXR1bG8nXHJcbmltcG9ydCBDYWxjdWxhZG9yYSBmcm9tICcuLi9jb21wb25lbnRlcy9DYWxjdWxhZG9yYSdcclxuXHJcbmV4cG9ydCBkZWZhdWx0ICgpPT4oXHJcbiAgICA8ZGl2PlxyXG4gICAgPEhlYWRlci8+XHJcbiAgICA8QmFycmFUaXR1bG8vPlxyXG4gICAgICAgIDxoMT5DYWxjdWxhZG9yYXM8L2gxPlxyXG4gICAgICAgIDxDYWxjdWxhZG9yYS8+XHJcblxyXG4gICAgPHN0eWxlIGpzeCBnbG9iYWw+XHJcbiAgICB7XHJcbiAgICAgICAgYFxyXG4gICAgICAgIGJvZHl7XHJcbiAgICAgICAgICAgIGJhY2tncm91bmQ6I2ZmY2EyMDtcclxuICAgICAgICAgICAgbWFyZ2luLWJvdHRvbToxMDBweDtcclxuICAgICAgICB9XHJcbiAgICAgICAgYFxyXG4gICAgfVxyXG4gICAgPC9zdHlsZT4gIFxyXG4gICAgPC9kaXY+XHJcbikiXX0= */\n/*@ sourceURL=D:\\proyectoReact\\pages\\calc.js */"));
 });
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!***********************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fcalc&absolutePagePath=D%3A%5CproyectoReact%5Cpages%5Ccalc.js ***!
   \***********************************************************************************************************/
@@ -12255,5 +12255,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=calc.js.map
