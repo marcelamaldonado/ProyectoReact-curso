@@ -1,0 +1,148 @@
+
+const matematicas = [{
+    "id": 1,
+    "first_name": "Elston",
+    "last_name": "Yerby",
+    "email": "eyerby0@dagondesign.com",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/cupiditatesuntdicta.bmp?size=50x50&set=set1"
+}, {
+    "id": 2,
+    "first_name": "Fidelia",
+    "last_name": "Beamand",
+    "email": "fbeamand1@cnbc.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/velitvoluptasaut.bmp?size=50x50&set=set1"
+}, {
+    "id": 3,
+    "first_name": "Skylar",
+    "last_name": "Jacobowits",
+    "email": "sjacobowits2@google.pl",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/corporislaudantiumnon.jpg?size=50x50&set=set1"
+}, {
+    "id": 4,
+    "first_name": "Jena",
+    "last_name": "Hunt",
+    "email": "jhunt3@forbes.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/providentoditveniam.bmp?size=50x50&set=set1"
+}, {
+    "id": 5,
+    "first_name": "Roch",
+    "last_name": "Haggata",
+    "email": "rhaggata4@webmd.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/quosmagnamexpedita.jpg?size=50x50&set=set1"
+}, {
+    "id": 6,
+    "first_name": "Ferguson",
+    "last_name": "Ornillos",
+    "email": "fornillos5@chicagotribune.com",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/evenietdoloremmollitia.bmp?size=50x50&set=set1"
+}, {
+    "id": 7,
+    "first_name": "Hubie",
+    "last_name": "Di Baudi",
+    "email": "hdibaudi6@wikia.com",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/nobisodioaccusamus.jpg?size=50x50&set=set1"
+}, {
+    "id": 8,
+    "first_name": "Caye",
+    "last_name": "Papierz",
+    "email": "cpapierz7@nytimes.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/quasiperferendisaut.png?size=50x50&set=set1"
+}, {
+    "id": 9,
+    "first_name": "Shane",
+    "last_name": "Bowmen",
+    "email": "sbowmen8@blogspot.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/quoetassumenda.bmp?size=50x50&set=set1"
+}, {
+    "id": 10,
+    "first_name": "Hatty",
+    "last_name": "Titcom",
+    "email": "htitcom9@arstechnica.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/ipsumtemporequo.png?size=50x50&set=set1"
+}]
+
+const ciencias = [{
+    "id": 1,
+    "first_name": "Sharona",
+    "last_name": "Pollastrino",
+    "email": "spollastrino0@hostgator.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/nihilquiafacilis.png?size=50x50&set=set1"
+}, {
+    "id": 2,
+    "first_name": "Sebastien",
+    "last_name": "Harfleet",
+    "email": "sharfleet1@merriam-webster.com",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/deseruntverocorrupti.bmp?size=50x50&set=set1"
+}, {
+    "id": 3,
+    "first_name": "Ginger",
+    "last_name": "Lohden",
+    "email": "glohden2@mozilla.org",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/reiciendisdolorsint.jpg?size=50x50&set=set1"
+}, {
+    "id": 4,
+    "first_name": "Jermayne",
+    "last_name": "Schober",
+    "email": "jschober3@discuz.net",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/consecteturcupiditateoccaecati.bmp?size=50x50&set=set1"
+}, {
+    "id": 5,
+    "first_name": "Othelia",
+    "last_name": "Lapides",
+    "email": "olapides4@qq.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/etmolestiaenon.png?size=50x50&set=set1"
+}, {
+    "id": 6,
+    "first_name": "Buck",
+    "last_name": "Glenfield",
+    "email": "bglenfield5@craigslist.org",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/quiasuscipitfacilis.png?size=50x50&set=set1"
+}, {
+    "id": 7,
+    "first_name": "Jodee",
+    "last_name": "Dunbobbin",
+    "email": "jdunbobbin6@imdb.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/enimporroalias.jpg?size=50x50&set=set1"
+}, {
+    "id": 8,
+    "first_name": "Adolphus",
+    "last_name": "Nares",
+    "email": "anares7@senate.gov",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/nonminusquia.bmp?size=50x50&set=set1"
+}, {
+    "id": 9,
+    "first_name": "Ivy",
+    "last_name": "Grain",
+    "email": "igrain8@nytimes.com",
+    "sexo": "Female",
+    "avatar": "https://robohash.org/utvoluptatemiste.bmp?size=50x50&set=set1"
+}, {
+    "id": 10,
+    "first_name": "Edgard",
+    "last_name": "Melville",
+    "email": "emelville9@squidoo.com",
+    "sexo": "Male",
+    "avatar": "https://robohash.org/ducimusmodireiciendis.jpg?size=50x50&set=set1"
+}]
+
+module.exports = {
+    matematicas,ciencias
+}
